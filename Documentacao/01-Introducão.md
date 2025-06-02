@@ -4,7 +4,7 @@ Este projeto propõe o desenvolvimento de um sistema de iluminação automatizad
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+A iluminação de escadas em muitos ambientes apresenta desafios em termos de segurança e eficiência. Frequentemente, a iluminação é mantida acesa continuamente, resultando em alto consumo de energia, ou é acionada por interruptores manuais, que exigem a interação do usuário e podem ser inconvenientes em situações de pouca luz ou pressa. Sensores de presença tradicionais, embora úteis, podem ser ativados por movimentos irrelevantes ou ter dificuldades em detectar a aproximação de forma precisa para iluminar o trajeto completo da escada antes que o usuário precise. Essa imprecisão pode levar a um breve período de escuridão no início da subida ou descida, comprometendo a segurança, especialmente para idosos ou pessoas com dificuldades de locomoção. Além disso, o acionamento ineficaz da iluminação contribui para o desperdício de energia elétrica.
 
 ## Objetivos
 
