@@ -1,4 +1,4 @@
-# Em busca da escada automatica
+# Projeto de iluminação inteligente para escadas
 
 `Lourdes/Praça da Liberdade`
 
