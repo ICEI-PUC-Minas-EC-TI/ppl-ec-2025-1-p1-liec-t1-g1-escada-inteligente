@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este projeto propõe o desenvolvimento de um sistema de iluminação automatizada para escadas, visando otimizar a segurança e a eficiência energética em ambientes residenciais e comerciais. Atualmente, a iluminação de escadas muitas vezes depende de acionamento manual ou sensores de presença genéricos que podem não ser ideais para o fluxo de pessoas e o consumo energético. Nosso sistema utiliza um sensor de peso integrado ao primeiro degrau para detectar de forma precisa a intenção de uso da escada, acionando um conjunto de LEDs que iluminam o caminho de forma inteligente e responsiva. O objetivo é proporcionar uma solução prática e inovadora que melhore a experiência do usuário e contribua para a redução do desperdício de energia.
 
 ## Problema
 
