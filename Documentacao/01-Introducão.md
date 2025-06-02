@@ -8,9 +8,13 @@ A iluminação de escadas em muitos ambientes apresenta desafios em termos de se
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é desenvolver um protótipo de sistema de iluminação inteligente para escadas que resolva os problemas de segurança e eficiência energética apresentados acima.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos Específicos:
+ 1- Desenvolver um sistema de detecção de presença baseado em sensor de peso: Implementar uma solução que utilize uma célula de carga e o módulo HX711 para identificar com precisão a presença de uma pessoa no início da escada, diferenciando-a de outros eventos e garantindo o acionamento oportuno da iluminação.
+
+ 2- Implementar um controle de iluminação responsivo e eficiente: Programar o microcontrolador para acionar os LEDs dos degraus de forma automática e por um período de tempo pré-determinado após a detecção de presença, garantindo a iluminação adequada do trajeto e desligando os LEDs automaticamente quando a escada não estiver em uso para economizar energia.
+
  
 ## Público-Alvo
 
