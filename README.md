@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Em busca da escada automatica
 
 `Lourdes/Praça da Liberdade`
 
@@ -22,7 +22,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso Trabalho tem como objetivo desenvolver um sistema de iluminação automatizada para escadas, proporcionando segurança e praticidade. Utilizando um sensor de peso, o sistema irá perceber a presença de uma pessoa, ascendendo os LEDs..
 
 # Código (do arduino ou esp32)
 
