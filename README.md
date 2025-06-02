@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`Lourdes/Praça da Liberdade`
 
-`CURSO`
+`Engenharia da Computação`
 
-`SEMESTRE`
+`Primeiro semestre`
 
-`DISCIPLINA`
+`Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
@@ -15,7 +15,6 @@
 * Fernando Pinto de Queiroz
 * João Francisco Machado Cardoso
 * João Pedro Mesquita Salgado Gil
-* Nome completo do aluno 5
 
 ## Orientador
 
