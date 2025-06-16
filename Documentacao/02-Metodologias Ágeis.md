@@ -9,14 +9,7 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 Nosso grupo se dividiu em 2 grupos menores para a construção do trabalho, assim acelerando o processo de construção. A equipe se organizou da seguinte maneira:
 - Desenvolvedores do código: Evaldo Lemos Servulo e João Francisco Machado Cardoso
-- Equipe para montar a escada: 
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
+- Equipe para montar a escada: Evaldo Lemos Servulo, Fernando Pinto de Queiroz, João Francisco Machado Cardoso e João Pedro Mesquita Salgado Gil
 
 ### Processo
 
