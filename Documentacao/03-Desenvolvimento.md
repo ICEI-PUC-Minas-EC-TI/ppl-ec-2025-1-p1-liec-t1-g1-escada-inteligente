@@ -2,6 +2,11 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
+- Arduino
+- LEDs
+- Sensor de peso
+- Sensor infravermelho
+- Palito de picole
 - Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
 
 # Desenvolvimento
