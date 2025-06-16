@@ -8,10 +8,13 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 ### Divisão de Papéis
 
 Nosso grupo se dividiu em 2 grupos menores para a construção do trabalho, assim acelerando o processo de construção. A equipe se organizou da seguinte maneira:
-- Desenvolvedores do código: Evaldo Lemos Servulo e João Francisco Machado Cardoso
-- Equipe para montar a escada: Evaldo Lemos Servulo, Fernando Pinto de Queiroz, João Francisco Machado Cardoso e João Pedro Mesquita Salgado Gil
+- Desenvolvedores do código: Evaldo Lemos Servulo e João Francisco Machado Cardoso.
+- Equipe para montar a escada: Evaldo Lemos Servulo, Fernando Pinto de Queiroz, João Francisco Machado Cardoso e João Pedro Mesquita Salgado Gil.
 
 ### Processo
+
+(Começamos o trabalho com a separação dos materiais, no inicio a ideia era utilizar sensor de peso, LEDs e o arduino porem percebemos que a utilização do sensor de peso em toda a escada seria muito complicado, então decidimos utilizar apenas no primeiro degrau)
+ 
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
  
@@ -20,4 +23,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- Arduino IDE
+- APP Inventor
+- Git Hub
+- 
