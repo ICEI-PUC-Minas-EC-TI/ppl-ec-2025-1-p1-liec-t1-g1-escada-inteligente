@@ -8,7 +8,8 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 ### Divisão de Papéis
 
 Nosso grupo se dividiu em 2 grupos menores para a construção do trabalho, assim acelerando o processo de construção. A equipe se organizou da seguinte maneira:
-- Desenvolvedores do código: Evaldo Lemos Servulo e 
+- Desenvolvedores do código: Evaldo Lemos Servulo e João Francisco Machado Cardoso
+- Equipe para montar a escada: 
 
 Apresente a divisão de papéis entre os membros do grupo.
 
