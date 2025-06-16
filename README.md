@@ -19,6 +19,7 @@
 ## Orientador
 
 * Felipe Augusto Lara Soares 
+* Cristiano Neves Rodrigues 
 
 ## Resumo
 
