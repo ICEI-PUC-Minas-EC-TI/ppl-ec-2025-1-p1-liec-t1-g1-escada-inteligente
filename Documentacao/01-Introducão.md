@@ -11,6 +11,7 @@ A iluminação de escadas em muitos ambientes apresenta desafios em termos de se
 O objetivo geral deste trabalho é desenvolver um protótipo de sistema de iluminação inteligente para escadas que resolva os problemas de segurança e eficiência energética apresentados acima.
 
 Objetivos Específicos:
+
  1- Desenvolver um sistema de detecção de presença baseado em sensor de peso: Implementar uma solução que utilize uma célula de carga e o módulo HX711 para identificar com precisão a presença de uma pessoa no início da escada, diferenciando-a de outros eventos e garantindo o acionamento oportuno da iluminação.
 
  2- Implementar um controle de iluminação responsivo e eficiente: Programar o microcontrolador para acionar os LEDs dos degraus de forma automática e por um período de tempo pré-determinado após a detecção de presença, garantindo a iluminação adequada do trajeto e desligando os LEDs automaticamente quando a escada não estiver em uso para economizar energia.
