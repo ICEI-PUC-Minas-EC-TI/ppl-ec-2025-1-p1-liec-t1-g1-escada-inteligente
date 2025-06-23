@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Nosso Trabalho tem como objetivo desenvolver um sistema de iluminação automatizada para escadas, proporcionando segurança e praticidade. Utilizando um sensor de peso, o sistema irá perceber a presença de uma pessoa, ascendendo os LEDs.
+Nosso Trabalho tem como objetivo desenvolver um sistema de iluminação automatizada para escadas, proporcionando segurança e praticidade. Utilizando um sensor de presença, o sistema irá perceber a presença de uma pessoa, ascendendo os LEDs.
 
 # Código (do arduino ou esp32)
 
