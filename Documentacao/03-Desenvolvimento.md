@@ -20,7 +20,8 @@ O desenvolvimento do projeto foi desafiador em algumas partes, porém em outras,
 
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
+
+O desenvolvimento das telas do aplicativo não representou uma grande complexidade, pois a interface foi concebida de forma minimalista e funcional. Além dos botões essenciais para conectar e desconectar o Bluetooth, o aplicativo principal contava com apenas três botões centrais, cada um com uma função, testar os leds, manter os leds acessos e voltar ao funcionamento normal.
 
 ### Código
 
