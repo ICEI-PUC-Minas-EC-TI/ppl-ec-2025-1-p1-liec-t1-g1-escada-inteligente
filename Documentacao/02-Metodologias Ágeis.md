@@ -3,7 +3,7 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nossa metodologia de trabalho focou na eficiência e divisão de tarefas, com uma parte da equipe dedicada integralmente à montagem da estrutura física da escada, enquanto os demais integrantes concentraram-se na construção e desenvolvimento do código do sistema, garantindo um progresso paralelo e otimizado do projeto.
 
 ### Divisão de Papéis
 
@@ -13,11 +13,7 @@ Nosso grupo se dividiu em 2 grupos menores para a construção do trabalho, assi
 
 ### Processo
 
-(Começamos o trabalho com a separação dos materiais, no inicio a ideia era utilizar sensor de peso, LEDs e o arduino porem percebemos que a utilização do sensor de peso em toda a escada seria muito complicado, então decidimos utilizar apenas no primeiro degrau)
- 
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+No início, o trabalho começou com a separação dos materiais e a ideia de utilizar sensores de peso, LEDs e Arduino. Porém, percebemos que a utilização de sensores de peso em toda a escada seria muito complicada, então decidimos trocá-los por sensores infravermelhos. Após a escolha do sensor a ser utilizado, iniciamos a montagem da escada. Achávamos que seria uma tarefa fácil, porém, com o decorrer do processo, vimos que seria mais complicado, pois teríamos que fazer pilastras de sustentação. Depois do término da montagem da parte eletrônica, começamos a fase de decoração para esconder os fios, a protoboard, o Arduino, os sensores e o módulo Bluetooth.
 
 ### Ferramentas
 
@@ -26,4 +22,3 @@ As ferramentas utilizadas no projeto foram:
 - Arduino IDE
 - APP Inventor
 - Git Hub
-- 
