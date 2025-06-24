@@ -1,6 +1,6 @@
 # Introdução
 
-Este projeto propõe o desenvolvimento de um sistema de iluminação automatizada para escadas, visando otimizar a segurança e a eficiência energética em ambientes residenciais e comerciais. Nosso sistema utiliza um sensor infravermelho integrado ao primeiro e ao último degrau para detectar de forma precisa a intenção de uso da escada, acionando um conjunto de LEDs que iluminam o caminho de forma inteligente, e após a pessoa subir a escada ela apagará de forma automática. O objetivo é proporcionar uma solução prática que melhore a experiência do usuário e contribua para a redução do desperdício de energia.
+Este projeto propõe o desenvolvimento de um sistema de iluminação automatizada para escadas, visando otimizar a segurança e a eficiência energética em ambientes residenciais e comerciais. Nosso sistema utiliza um sensor infravermelho integrado ao primeiro e ao último degrau para detectar de forma precisa a intenção de uso da escada, acionando um conjunto de LEDs que iluminam o caminho de forma inteligente e se apagam automaticamente após a pessoa subir a escada. O objetivo é proporcionar uma solução prática que melhore a experiência do usuário e contribua para a redução do desperdício de energia.
 
 ## Problema
 
