@@ -39,4 +39,4 @@ O desenvolvimento do código para o Arduino/ESP foi relativamente dificil. Embor
 
 ## Comunicação entre App e Hardware
 
-Descreva como foi o processo de comunicação entre App e arduino/ESP.
+A comunicação entre o aplicativo e o Arduino/ESP foi simples em sua essência, baseada no envio de números do app ao microcontrolador via botões, sem interface visual complexa. A parte que pode-se dizer que mais deu trabalho foi estabelecer a conexão Bluetooth.
