@@ -35,7 +35,7 @@ A montagem do projeto, embora conceitualmente simples, mostrou-se bastante traba
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+O desenvolvimento do código para o Arduino/ESP foi relativamente dificil. Embora a lógica principal de acionamento dos LEDs fosse simples, a complexidade surgiu na integração dos sensores infravermelhos e na comunicação com o módulo Bluetooth para o controle inteligente da iluminação e recepção de comandos do aplicativo.
 
 ## Comunicação entre App e Hardware
 
