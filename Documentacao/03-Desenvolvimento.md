@@ -25,7 +25,8 @@ O desenvolvimento das telas do aplicativo não representou uma grande complexida
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+
+O desenvolvimento do código do aplicativo foi um processo relativamente simples, dada a simplicidade do aplicativo. A única etapa que apresentou maior desafio foi a implementação da conexão Bluetooth, especificamente a lógica para que um botão no aplicativo do celular estabelecesse a comunicação com o módulo Bluetooth do sistema. No entanto, através de pesquisa e consulta a tutoriais no YouTube, conseguimos desenvolver essa parte do código de forma eficaz. As demais funcionalidades foram bastante simples de implementar, uma vez que se resumiam a enviar um número específico ao Arduino quando um determinado botão era clicado.
 
 ## Desenvolvimento do Hardware
 
