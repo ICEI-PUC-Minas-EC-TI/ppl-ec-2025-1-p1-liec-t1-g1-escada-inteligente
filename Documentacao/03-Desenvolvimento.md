@@ -25,14 +25,13 @@ O desenvolvimento das telas do aplicativo não representou uma grande complexida
 
 ### Código
 
-
 O desenvolvimento do código do aplicativo foi um processo relativamente simples, dada a simplicidade do aplicativo. A única etapa que apresentou maior desafio foi a implementação da conexão Bluetooth, especificamente a lógica para que um botão no aplicativo do celular estabelecesse a comunicação com o módulo Bluetooth do sistema. No entanto, através de pesquisa e consulta a tutoriais no YouTube, conseguimos desenvolver essa parte do código de forma eficaz. As demais funcionalidades foram bastante simples de implementar, uma vez que se resumiam a enviar um número específico ao Arduino quando um determinado botão era clicado.
 
 ## Desenvolvimento do Hardware
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+A montagem do projeto, embora conceitualmente simples, mostrou-se bastante trabalhosa devido às limitações de espaço e à quantidade de componentes. Utilizou-se uma protoboard grande, preenchida por completo, para acomodar a vasta rede de cabos e resistores necessários para as conexões. O maior desafio foi na integração do módulo Bluetooth HC-05, como sua comunicação opera em menos de 5V, foi preciso um arranjo adicional de resistores para a correta divisão de corrente, garantindo a compatibilidade e o funcionamento adequado do sistema.
 
 ### Desenvolvimento do Código
 
