@@ -14,7 +14,7 @@ Os materiais utilizados no projeto foram:
 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+O desenvolvimento do projeto foi desafiador em algumas partes, porém em outras, como a ligação da parte eletrônica e a decoração do projeto, as tarefas foram bem fáceis. No entanto, outras etapas exigiram adaptações significativas da teoria à prática. Houve uma mudança crucial do sensor de peso para o sensor infravermelho devido à complexidade da implementação. A montagem da escada também apresentou problemas inesperados, como a necessidade de pilastras de sustentação e ajustes no material.
 
 ## Desenvolvimento do Aplicativo
 
