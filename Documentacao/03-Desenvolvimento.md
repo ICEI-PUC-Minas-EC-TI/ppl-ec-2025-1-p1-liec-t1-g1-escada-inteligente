@@ -2,12 +2,15 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Arduino
+- Arduino mega
 - LEDs
-- Sensor de peso
-- Sensor infravermelho
+- Sensor infravermeelho
+- Módulo bluetooth (HC-05)
 - Palito de picole
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- Resistores
+- Jumpers
+- Protoboard
+- Papel craft
 
 # Desenvolvimento
 
