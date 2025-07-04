@@ -1,3 +1,3 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho (no formato ABNT).
+Para a elaboração e implementação do sistema, foram utilizadas como referência e modelo as características funcionais de escadas tradicionais que empregam sistemas de detecção por sensores.
